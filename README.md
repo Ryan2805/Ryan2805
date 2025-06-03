@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Welcome to my GitHub! I'm a third-year college student passionate about coding and technology. I specialize in C#, Java, TypeScript, and JavaScript, and I'm well-versed in frameworks and tools like Angular, SQL, MongoDB, Docker, Blazor, .NET, and SignalR. Feel free to explore my projects and contributions. Let's connect and collaborate!
+
+📫 How to reach me: Rdaly2610@gmail.com | S00237889@atu.ie
